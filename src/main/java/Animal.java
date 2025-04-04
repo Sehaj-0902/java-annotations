@@ -5,7 +5,7 @@ public class Animal {
 }
 
 class Dog extends Animal {
-    // Overriding make sound method
+    // Overriding makeSound() method
     @Override
     public void makeSound() {
         System.out.println("Dog makes a sound.");
